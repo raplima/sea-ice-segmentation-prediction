@@ -1,0 +1,11 @@
+name: sea-ice-prediction
+channels:
+  - defaults
+dependencies:
+  - python=3.9.16
+  - torchvision
+  - pytorch-cuda=11.7
+  - pytorch
+  - xarray
+  - rioxarray
+  - tqdm
