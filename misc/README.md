@@ -1,0 +1,1 @@
+Models were trained using mean and standard deviation saved in the files in this folder. Mean and standard deviation were obtained from https://github.com/astokholm/AI4ArcticSeaIceChallenge/tree/main/misc.
