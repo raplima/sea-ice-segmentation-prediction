@@ -1,5 +1,8 @@
 name: sea-ice-prediction
 channels:
+  - pytorch
+  - nvidia
+  - conda-forge
   - defaults
 dependencies:
   - python=3.9.16
