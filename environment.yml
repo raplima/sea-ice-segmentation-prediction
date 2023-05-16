@@ -6,9 +6,11 @@ channels:
   - defaults
 dependencies:
   - python=3.9.16
-  - torchvision
+  - pip=23.0.1
   - pytorch-cuda=11.7
   - pytorch=2.0.0
   - xarray=2023.4.2
   - rioxarray=0.14.1
   - tqdm
+  - pip:
+      - torchvision==0.15.0
